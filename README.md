@@ -28,7 +28,7 @@ O sistema é operado via console e permite que o usuário realize as seguintes o
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h<
+#include <string.h>
 
 int main()
 {
